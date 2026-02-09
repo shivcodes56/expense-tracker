@@ -3,14 +3,16 @@
 A simple personal expense tracker built using HTML, CSS, and JavaScript.
 
 ## Features
-- Track income and expenses
-- Clean dashboard UI
-- Monthly overview (UI-based)
+- Add income and expenses
+- Monthly overview using charts
+- Clean responsive UI
 
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
+## What I Learned
+- HTML structure & semantics
+- CSS Flexbox and layout
+- DOM manipulation in JavaScript
+- Basic project structuring
 
-## Status
-Work in progress – learning project.
+## Future Improvements
+- LocalStorage persistence
+- Category-wise analytics
